@@ -1,7 +1,7 @@
 
 .d {
-  width: 56px;
-  height: 56px;
   background-image: url(/images/sprite.png);
   background-position: -56px -56px;
+  width: 56px;
+  height: 56px;
 }
