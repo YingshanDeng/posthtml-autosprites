@@ -1,0 +1,7 @@
+
+.c {
+  width: 56px;
+  height: 56px;
+  background-image: url(/images/sprite.png);
+  background-position: 0px -56px;
+}

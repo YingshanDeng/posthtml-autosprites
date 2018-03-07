@@ -1,0 +1,30 @@
+{
+  "name": "posthtml-autosprites",
+  "version": "0.1.0",
+  "description": "Auto generate sprites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YingshanDeng/posthtml-autosprites.git"
+  },
+  "keywords": [
+    "posthtml",
+    "sprites"
+  ],
+  "author": "YingshanDeng <yingshandeng@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YingshanDeng/posthtml-autosprites/issues"
+  },
+  "homepage": "https://github.com/YingshanDeng/posthtml-autosprites#readme",
+  "dependencies": {
+    "postcss": "^6.0.19",
+    "postcss-sprites": "^4.2.1"
+  },
+  "devDependencies": {
+    "posthtml": "^0.11.3"
+  }
+}

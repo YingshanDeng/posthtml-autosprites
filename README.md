@@ -1,2 +1,2 @@
 # posthtml-autosprites
-Auto generate sprites for internal and external css from the html file
+Auto generate sprites from the html file, it will parse the inline/internal/external css styles to generate the sprites。
